@@ -1,0 +1,11 @@
+{
+  "name": "schoolmanagementapp",
+  "version": "1.0.0",
+  "description": "school management application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "vardaan kapoor",
+  "license": "ISC"
+}
